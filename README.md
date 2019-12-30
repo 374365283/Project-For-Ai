@@ -3,7 +3,7 @@
 实验一：用线性层模型评估样本规模对损失函数的影响
 brainProjectTopicA_LinearFunction3.py用于模拟三次函数。
 
-用于使用线性层来训练数据。
+brainProjectTopicA_cubicFunction1.py用于使用线性层来训练数据。
 
 
 
