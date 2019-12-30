@@ -6,8 +6,11 @@
 
 实验二：用卷积神经网络评估样本规模对损失函数的影响
 cifar.py 文件用于获取cifar10的图像数据，并将获取的数据放入train_dataset_200或train_dataset_1000中。
+
 NeuralNet.py是卷积神经网络模型的搭建代码
+
 test.py是测试文件，使用train_log中的模型，测试数据在test_dataset中。
+
 Train.py是训练文件，使用train_dataset_200或者train_dataset_1000中的数据，结果记录在train_log中。
 
 
