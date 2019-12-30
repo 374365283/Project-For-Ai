@@ -1,0 +1,2 @@
+model_checkpoint_path: "E:/autumn 2019/brain-like intelligence/CNN/train_logs/200_1_4W\\model.ckpt"
+all_model_checkpoint_paths: "E:/autumn 2019/brain-like intelligence/CNN/train_logs/200_1_4W\\model.ckpt"
